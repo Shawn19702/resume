@@ -1,0 +1,33 @@
+h3{
+        /* background-color: rgb(12, 93, 255); */
+        color: rgb(255, 28, 28);
+}
+
+div{
+    border: solid 2px;
+    color: rgba(0, 0, 0, 0.911);
+    /* background-color: rgb(0, 21, 255); */
+    background-image:url(https://live.staticflickr.com/7620/16951325752_cf382d8d57_b.jpg);
+}
+
+p{
+    border: solid 2px;
+    color: rgb(238, 255, 0);
+}
+h1{
+    border: solid 2px;
+    color: rgb(255, 238, 0);
+
+}
+
+ #contact{
+    color: rgba(248, 255, 60, 0.911);
+ }
+
+ ul{
+    color: rgb(255, 242, 0);
+ }
+ 
+
+ 
+
